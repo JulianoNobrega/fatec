@@ -12,6 +12,7 @@ b) Fascículos para segurança da Internet - Cert.br: https://cartilha.cert.br/f
 <br>
 c) Página dedicada à Cibersegurança - Fórum Econômico Mundial: https://centres.weforum.org/centre-for-cybersecurity/home 
 <br>
+d) Fórum Econômico Mundial - Agenda de Cybersecurity: https://www.weforum.org/agenda/cybersecurity/
 
 # 3) Mapas de ataques
 <br>
