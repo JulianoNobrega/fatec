@@ -15,9 +15,18 @@ c) Página dedicada à Cibersegurança - Fórum Econômico Mundial: https://cent
 
 # 3) Mapas de ataques
 <br>
-Digital Attack Map - https://www.digitalattackmap.com/ 
+a) Digital Attack Map - https://www.digitalattackmap.com/ <br>
+b) Kaspersky - https://cybermap.kaspersky.com/ <br>
 <br>
+
 
 # 4) Empresas brasileiras de cibersegurança
 <br>
-a) ISH: https://ish.com.br/ 
+a) ISH: https://ish.com.br/ <br>
+
+# 5) Distribuições Linux
+a) Kali Linux: https://www.kali.org/ <br>
+b) Parrot Linux: https://parrotsec.org/ <br>
+c) Black Arch: https://blackarch.org/ <br>
+d) Alpine Linux: https://www.alpinelinux.org/ <br>
+d) BackBox: https://www.backbox.org/
