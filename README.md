@@ -3,6 +3,7 @@ Curso de Segurança de Sistemas de Informação - Graduação em Informática pa
 
 # 1) QUIZ (Trabalhos em sala de aula)
 QUIZ #1 - Conceitos básicos em Segurança de Sistemas de Informação: https://forms.gle/MFMfvH55fd6PXPqA6 
+QUIZ #2 - Conceitos sobre ataques cibernéticos: https://forms.gle/VvuAst6vQojuVvZq8
 
 # 2) Links úteis para pesquisa em sala de aula
 <br>
